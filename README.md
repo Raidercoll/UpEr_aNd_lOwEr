@@ -1,6 +1,6 @@
 # Ironic Website
 
-in this website i will work with 3 lenguages. 
+in this website i will work with 3 linguages. 
  <ol>
   <li>JAVA</li>
   <li>PYTHON</li>
